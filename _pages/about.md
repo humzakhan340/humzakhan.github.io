@@ -4,7 +4,7 @@ title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /about
   - /about.html
 ---
 I'm a 4th year UCLA student studying Microbiology, Immunology, and Molecular Genetics. Quite a mouthful, I know. If you care about my credentials, they're listed [here](https://humzakhan.github.io/cv/). 
