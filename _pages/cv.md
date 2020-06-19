@@ -45,6 +45,7 @@ Volunteering and Service
 ======
 
 * **TheXperiment**
+
   *Mentor, Marketing Chair ('18-'19), Treasurer ('19-'20), and Post-Grad Advisor ('20-'21)*
   
   June 2017-Present
@@ -56,14 +57,23 @@ Volunteering and Service
   * Coordinated site visits of 60+ mentors and 75+ mentees
   
 
-Assessing Residents’ CI-CARE General Surgery/Urology Department Lead  September 2017-Present
-Surveyed General Surgery and Head and Neck Surgery patients for satisfaction with their residents
-Spearheaded a project to increase efficiency by digitizing surveying
-Leading a group of five volunteers to analyze data to assess resident physician communication scores
-Acting as organization photographer, research associate, social media director, website editor, and department lead 
+* **Assessing Residents’ CI-CARE**
+  
+  *Volunteer ('17-'19) and General Surgery/Urology Department Lead ('19-'20)*
 
-Irvington High School Alumni Mentor	 	    		     September 2018-Present
-Helping guide students of my former high school with extracurricular activities, college admissions, and general life advice 
+  September 2017-June 2020
+
+  * Surveyed General Surgery and Head and Neck Surgery patients for satisfaction with their residents
+  * Spearheaded a project to increase efficiency by digitizing surveying
+  * Led a group of five volunteers to analyze data to assess resident physician communication scores
+  * Affiliated as organization photographer, research associate, social media director, and website editor
+  * Coordinated site visits of 60+ mentors and 75+ mentees
+
+* **Irvington High School Alumni Mentor**
+
+September 2018-Present
+
+* Helping guide students of my former high school with extracurricular activities, college admissions, and general life advice 
   
 Skills
 ======
