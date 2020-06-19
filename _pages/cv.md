@@ -14,7 +14,9 @@ Education
 BS (in progress): University of California, Los Angeles — Microbiology, Immunology, and Molecular Genetics 
 
   Departmental Honors 
+  
   Emphasis on Advanced Independent Research 	
+  
   Expected Graduation: December 2020
 
 Research
