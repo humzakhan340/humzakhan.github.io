@@ -19,22 +19,22 @@ Research
 ======
 
 * **Butte Lab**  
-  *Research Assistant 
+  *Research Assistant* 
   February 2018-Present
   
-  *Common Variable Immunodeficiency
+  *Common Variable Immunodeficiency*
   * Utilizing Cytometry by Time of Flight (CyTOF) as a methodology to establish functional cellular differences in patients     with CVID
   * Optimized assay to measure phospho-protein levels in immunodeficiency patients
   * Creating a novel 2-component Gaussian Mixture Model methodology to analyze CyTOF signaling data
   * Making machine learning models to correlate signaling, exome data with clinical phenotype in CVID
   
-  *Adducin and CD4 T cell Costimulation
+  *Adducin and CD4 T cell Costimulation*
   
   * Utilized confocal microscopy and ImageJ to link the actin capping protein Alpha-Adducin to CD4 T-cell 
     costimulation
   * Used R to fit logistic regression curves for dose-responsive T-cell proliferation curves
   
-  *Basophil Activation Test
+  *Basophil Activation Test*
   
   * Worked to optimize a high-throughput assay to diagnose allergy
   * Mentored a high school student in the summer of 2018
@@ -42,8 +42,8 @@ Research
 Volunteering and Service
 ======
 
-* **TheXperiment
-  *Mentor, Marketing Chair ('18-'19), Treasurer ('19-'20), and Post-Grad Advisor ('20-'21)
+* **TheXperiment**
+  *Mentor, Marketing Chair ('18-'19), Treasurer ('19-'20), and Post-Grad Advisor ('20-'21)*
   June 2017-Present
   * Personally mentored 30+ underserved children one-on-one in scientific topics of their interests
   * Garnered over $10,000 in funding for students' projects and club maintenance
