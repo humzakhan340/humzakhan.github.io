@@ -4,8 +4,7 @@ title: "Reading"
 excerpt: 
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /reading
 ---
 I'm trying to keep track of what I read. I'm smart enough to annotate my books and write when I start and finish them, but too dumb to have written down what books I've read. 
 
