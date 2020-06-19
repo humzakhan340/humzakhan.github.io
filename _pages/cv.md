@@ -76,10 +76,10 @@ Skills
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-https://www.frontiersin.org/articles/10.3389/fimmu.2019.02706/full
+Thauland TJ, Khan HA and Butte MJ (2019) The Actin-Capping Protein Alpha-Adducin Is Required for T-Cell Costimulation. Front. Immunol. 10:2706. https://www.frontiersin.org/articles/10.3389/fimmu.2019.02706/full.
+
+Posters
+======
 
 Awards
 ======
