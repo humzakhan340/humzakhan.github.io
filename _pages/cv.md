@@ -71,7 +71,7 @@ Volunteering and Service
 
 * **Irvington High School Alumni Mentor**
 
-September 2018-Present
+  September 2018-Present
 
 * Helping guide students of my former high school with extracurricular activities, college admissions, and general life advice 
   
