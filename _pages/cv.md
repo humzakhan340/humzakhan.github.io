@@ -80,10 +80,15 @@ Skills
   
 Publications
 ======
-Thauland TJ, Khan HA and Butte MJ (2019) The Actin-Capping Protein Alpha-Adducin Is Required for T-Cell Costimulation. Front. Immunol. 10:2706. https://www.frontiersin.org/articles/10.3389/fimmu.2019.02706/full.
+Thauland TJ, **Khan HA**, Butte MJ (2019) The Actin-Capping Protein Alpha-Adducin Is Required for T-Cell Costimulation. Front. Immunol. 10:2706. https://www.frontiersin.org/articles/10.3389/fimmu.2019.02706/full.
 
 Posters
 ======
+**Khan HA**, Thauland TJ, Garcia AJ, Butte MJ. A Signaling and Phenotypic Analysis of Common Variable Immunodeficiency Patients through Mass Cytometry. Presented at MIMG Undergraduate Research Symposium; 2019 December 6; Los Angeles, Ca.
+
+Ru K, **Khan H**, Neman S, Faith J, Moseley T, Dubey I, Ratnaparki, R, Lu O, Gonzalez L.  Comparing ACGME Core Competency Scores Between 1st and 3rd year Internal Medicine Residents at UCLA Health. Poster presented at UCLA Undergraduate Research Poster Day; 2019 May 21; Los Angeles, Ca.
+
+Soohoo A, **Khan H**, Cevallos N, Hankerson B, Lu O, Kim J, Gonzalez L, Mosley V.  An Assessment of Communication and Professionalism of Medical Residents at the Ronald Reagan UCLA Medical Center from 2015 to 2017. Poster presented at UCLA Undergraduate Research Poster Day; 2018 May 22; Los Angeles, Ca.
 
 Awards
 ======
