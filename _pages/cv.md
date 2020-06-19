@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 BS (in progress): University of California, Los Angeles — Microbiology, Immunology, and Molecular Genetics 
+
   Emphasis on Advanced Independent Research 	
 	Expected Graduation: December 2020
 
@@ -20,6 +21,7 @@ Research
 
 * **Butte Lab**  
   *Research Assistant* 
+  
   February 2018-Present
   
   *Common Variable Immunodeficiency*
@@ -44,7 +46,9 @@ Volunteering and Service
 
 * **TheXperiment**
   *Mentor, Marketing Chair ('18-'19), Treasurer ('19-'20), and Post-Grad Advisor ('20-'21)*
+  
   June 2017-Present
+  
   * Personally mentored 30+ underserved children one-on-one in scientific topics of their interests
   * Garnered over $10,000 in funding for students' projects and club maintenance
   * Coordinated three city-wide science fairs
