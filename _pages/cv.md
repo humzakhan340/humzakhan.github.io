@@ -73,7 +73,7 @@ Volunteering and Service
 
   September 2018-Present
 
-* Helping guide students of my former high school with extracurricular activities, college admissions, and general life advice 
+  * Guiding students of my former high school with extracurriculars, college admissions, and life advice 
   
 Skills
 ======
