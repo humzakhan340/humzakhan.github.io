@@ -15,7 +15,6 @@ I'm trying to keep track of what I read. I'm smart enough to annotate my books a
 **What I Want to Read**
 * Thinking Fast and Slow by Daniel Kahneman (sorely overdue)
 * Crime and Punishment by Dostoevsky
-* 
 
 **What I've Read in 2020**
 * The Unbearable Lightness of Being by Milan Kundera
