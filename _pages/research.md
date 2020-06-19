@@ -28,13 +28,20 @@ CVID patients are incredibly heterogenous; most suffer primarily infectious comp
 
 Our work is trying to understand signaling patterns in these autoimmune patients so that they can be treated more aggressively, earlier, and hopefully for the better. 
 
-CyTOF data happens to be incredibly high dimensional. Every experiment I run generates over 2 gigabytes of data. For this reason, I started applying data science tools to my ever-expanding dataset.
+CyTOF data happens to be incredibly high dimensional. Every experiment I run generates over 2 gigabytes of data. For this reason, I started applying data science tools to my ever-expanding dataset. This involves data cleaning, automated sub-population mean extraction via Gaussian mixture models, and batch effects correction.
 
-The analysis pipeline that I'm creating will be released as an R package for general analysis of CyTOF signaling data.
+The analysis pipeline that I'm creating will (hopefully) be released as an R package for general analysis of CyTOF signaling data.
 
-If you are deeply interested in the science, my undergraduate thesis is attached here. 
+If you are interested in the science, I'm flattered. For further reading, my undergraduate thesis is attached here. 
 
 **Clinical Work**
 ======
 
-As a leader in the Assessing Residents' CI-CARE organization, I wanted to 
+Assessing Residents' CI-CARE is an organization that partners with the David Geffen School of Medicine to evaluate resident physicians through surveys. I joined this organization as a freshman in college and volunteered as a surveyer for two years. During this time, I began to assume leadership roles, particularly in the clinical research branch of our organization. 
+
+Our organization wanted to utilize the data that we collected to ensure that residents were improving as they continued their training. It turned out that they were, woohoo! 
+
+I also wanted to critically assess which departments communicated particularly well with their patients and which were below average. Unsurprisingly, pediatricians performed staggeringly above average in terms of communication. Surgical specialties needed extra support.  
+
+I performed statistical analysis and helped coordinate our teams for both of these projects.
+
